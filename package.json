@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "tw.js",
 	"dependencies": {
-		"async": "^3.0.1",
+		"async": "^3.2.2",
 		"eslint-config-airbnb-base": "^13.1.0",
 		"sqlite3": "^4.0.8",
 		"twitter": "^1.7.1",
